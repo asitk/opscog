@@ -27,6 +27,11 @@ target/
 *.swp
 *.swo
 
+# Eclipse
+.classpath
+.project
+.settings/
+
 # OS
 .DS_Store
 Thumbs.db
