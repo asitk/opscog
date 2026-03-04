@@ -32,6 +32,61 @@ target/
 .project
 .settings/
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Temp
+*.tmp
+*.temp
+*~
+
+# Credentials
+*.pem
+*.key
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# ML/AI
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pth
+*.pt
+*.onnx
+*.model
+.mlflow/
+wandb/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Rust
+*.rs.bk
+
+# Frontend
+.npm/
+.npmrc
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.turbo/
+.grunt/
+coverage/
+.nyc_output/
+.sass-cache/
+
 # OS
 .DS_Store
 Thumbs.db
