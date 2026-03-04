@@ -12,3 +12,29 @@ visual/www/nbproject/
 apps/statserver/nbactions.xml
 apps/statserver/nb-configuration.xml
 apps/statserver/dependency-reduced-pom.xml
+
+# Go
+opscog
+*.exe
+
+# Java/Scala
+target/
+*.class
+*.jar
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+bin/
+
+# Logs
+*.log

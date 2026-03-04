@@ -1,4 +1,4 @@
-# 🔭 Opscog
+# 🌀 OPSCog
 
 Orchestration for Cloud Apps: Modern application architectures are complex
 with many interconnected components. User requests and underlying business
